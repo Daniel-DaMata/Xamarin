@@ -1,0 +1,1 @@
+D:\Daniel\VS\PrimeiroApp\PrimeiroApp\PrimeiroApp.csproj;x64
